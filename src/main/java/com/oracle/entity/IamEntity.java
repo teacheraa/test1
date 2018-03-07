@@ -1,6 +1,8 @@
 package com.oracle.entity;
 
 public class IamEntity {
+
+	//aa
    private String name;
    private int age;
    private int num;
